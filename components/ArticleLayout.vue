@@ -84,12 +84,20 @@ onMounted(() => {
     line-height: 1.3;
 }
 
-.text :deep(h1) { font-size: 20px; }
-.text :deep(h2) { font-size: 18px; }
-.text :deep(h3) { font-size: 16px; }
+.text :deep(h1) {
+    font-size: 20px;
+}
+.text :deep(h2) {
+    font-size: 18px;
+}
+.text :deep(h3) {
+    font-size: 16px;
+}
 .text :deep(h4),
 .text :deep(h5),
-.text :deep(h6) { font-size: 14px; }
+.text :deep(h6) {
+    font-size: 14px;
+}
 
 /* Paragraphs */
 .text :deep(p) {
@@ -113,8 +121,12 @@ onMounted(() => {
     margin-bottom: 1em;
 }
 
-.text :deep(ul) { list-style-type: disc; }
-.text :deep(ol) { list-style-type: decimal; }
+.text :deep(ul) {
+    list-style-type: disc;
+}
+.text :deep(ol) {
+    list-style-type: decimal;
+}
 
 .text :deep(li) {
     margin-bottom: 0.25em;

@@ -5,7 +5,6 @@
         </Head>
 
         <article v-for="post in posts" :key="post.path">
-
             <NuxtLink :to="post.path" class="link">
                 <h2 class="title">{{ post.title }}</h2>
                 <div class="info">
@@ -22,15 +21,20 @@
 <script setup lang="ts">
 const { data: posts } = await useAsyncData(
     "blog-posts",
-    () => queryCollection("blog").where("is_published", "!=", false).order("date", "DESC").all(),
+    () =>
+        queryCollection("blog")
+            .where("is_published", "!=", false)
+            .order("date", "DESC")
+            .all(),
     {
-        transform: (data) => data.map((post) => {
-            console.log(post);
-            return {
-                ...post,
-                slug: post.path.split("/").pop() ?? "",
-            }
-        }),
+        transform: (data) =>
+            data.map((post) => {
+                console.log(post);
+                return {
+                    ...post,
+                    slug: post.path.split("/").pop() ?? "",
+                };
+            }),
     },
 );
 </script>

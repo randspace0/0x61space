@@ -10,6 +10,6 @@
 
 <script setup lang="ts">
 const { data: page } = await useAsyncData("links-page", () =>
-    queryCollection("links").first()
+    queryCollection("links").first(),
 );
 </script>

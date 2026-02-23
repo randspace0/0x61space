@@ -14,7 +14,14 @@ export default defineContentConfig({
                 date: z.string(),
                 is_published: z.boolean().default(true),
                 description: z.string().optional(),
-                readingTime: z.object({ text: z.string(), minutes: z.number(), time: z.number(), words: z.number() }).optional(),
+                readingTime: z
+                    .object({
+                        text: z.string(),
+                        minutes: z.number(),
+                        time: z.number(),
+                        words: z.number(),
+                    })
+                    .optional(),
             }),
         }),
     },

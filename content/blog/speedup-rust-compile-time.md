@@ -1,7 +1,7 @@
 ---
 title: "Speedup Rust Compile Time"
 date: "2022-01-14"
-is_published: false
+is_published: true
 ---
 
 Rust is notoriously known for being slow to compile. This was caused by several problems. I will list the current overhead that the Rust compiler has

@@ -49,7 +49,7 @@ npm i -g ssvmup
 npm i ssvm
 ```
 
-For this project, I'm going to brings my [Rust Anime4k](https://github.com/0x61space/Anime4k-rs) project to become a web service. I'm expecting to not rewrite much of Rust code as the project has been done.
+For this project, I'm going to brings my [Rust Anime4k](https://github.com/randspace0/Anime4k-rs) project to become a web service. I'm expecting to not rewrite much of Rust code as the project has been done.
 
 So the user will be able to upload an image, then the image uploaded will be passed and processed in Rust, and the processed image will be returned back to JavaScript web server.
 
@@ -206,7 +206,7 @@ If you have any further question, let me know in the comments below.
 
 ---
 
-The projects source code are available for public [https://github.com/0x61space/Anime4k-ssvm-nodejs](https://github.com/0x61space/Anime4k-ssvm-nodejs) and also the live demo [http://anime4k-ssvm-nodejs.herokuapp.com/](http://anime4k-ssvm-nodejs.herokuapp.com/)
+The projects source code are available for public [https://github.com/randspace0/Anime4k-ssvm-nodejs](https://github.com/randspace0/Anime4k-ssvm-nodejs) and also the live demo [http://anime4k-ssvm-nodejs.herokuapp.com/](http://anime4k-ssvm-nodejs.herokuapp.com/)
 
 ---
 

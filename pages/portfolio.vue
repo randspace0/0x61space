@@ -1,7 +1,7 @@
 <template>
     <div class="content">
         <Head>
-            <Title>Portfolio - Andra Space</Title>
+            <Title>Portfolio - randspace0</Title>
         </Head>
 
         <iframe
@@ -10,7 +10,7 @@
             src="https://www.canva.com/design/DAFrJrArj4w/V_PHd7gCASOaTFlHmtEfYw/view?embed"
             allowfullscreen
             allow="fullscreen"
-            title="Portfolio - Andra Space"
+            title="Portfolio - randspace0"
         >
         </iframe>
         <a

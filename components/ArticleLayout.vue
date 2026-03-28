@@ -1,7 +1,7 @@
 <template>
     <article class="content">
         <Head>
-            <Title>{{ title }} - 0x61space</Title>
+            <Title>{{ title }} - randspace0</Title>
         </Head>
 
         <h1 class="title">{{ title }}</h1>
@@ -40,7 +40,7 @@ onMounted(() => {
     };
 
     const script = document.createElement("script");
-    script.src = "https://blognya-andra.disqus.com/embed.js";
+    script.src = "https://randspace0.disqus.com/embed.js";
     script.setAttribute("data-timestamp", new Date().toString());
     (document.head || document.body).appendChild(script);
 });

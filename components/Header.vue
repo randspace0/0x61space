@@ -8,21 +8,14 @@
                 <li><NuxtLink to="/portfolio">Portfolio</NuxtLink></li>
             </ul>
             <h2 class="menu__item center">
-                <NuxtLink to="/">0x61space</NuxtLink>
+                <NuxtLink to="/">randspace0</NuxtLink>
             </h2>
             <ul class="menu__item right">
                 <li>
                     <a
-                        href="https://github.com/0x61space"
+                        href="https://github.com/randspace0"
                         class="icon--github"
                         aria-label="GitHub"
-                    ></a>
-                </li>
-                <li>
-                    <a
-                        href="https://linkedin.com/in/andraantariksa"
-                        class="icon--linkedin"
-                        aria-label="LinkedIn"
                     ></a>
                 </li>
             </ul>

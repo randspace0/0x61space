@@ -1,7 +1,7 @@
 <template>
     <div class="content">
         <Head>
-            <Title>About Me - 0x61space</Title>
+            <Title>About Me - randspace0</Title>
         </Head>
 
         <img src="/image/headline.jpeg" class="image" alt="Its me" />

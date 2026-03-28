@@ -17,7 +17,7 @@ As of today, RSA is the most widely used, but Ed25519 has become the newly recom
 ## Generating the Key
 
 ```
-ssh-keygen -t ed25519 -f ~/.ssh/id_ed25519 -C "andra@example.com"
+ssh-keygen -t ed25519 -f ~/.ssh/id_ed25519 -C "randspace0@example.com"
 ```
 
 - `-t` specify the type we're using, in our case ed25519.

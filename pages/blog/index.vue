@@ -1,7 +1,7 @@
 <template>
     <div class="content">
         <Head>
-            <Title>Blog - Andra Space</Title>
+            <Title>Blog - randspace0</Title>
         </Head>
 
         <article v-for="post in posts" :key="post.path">

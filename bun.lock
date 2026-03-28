@@ -3,7 +3,7 @@
   "configVersion": 1,
   "workspaces": {
     "": {
-      "name": "0x61space",
+      "name": "randspace0",
       "dependencies": {
         "@nuxt/content": "^3.11.2",
         "normalize.css": "^8.0.1",

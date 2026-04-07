@@ -1,5 +1,16 @@
 export default defineNuxtConfig({
-    modules: ["@nuxt/content"],
+    modules: ["@nuxt/content", "@nuxtjs/sitemap"],
+
+    sitemap: {
+        sources: ["/api/__sitemap__/urls"],
+    },
+    site: {
+        url:
+            process.env.NUXT_PUBLIC_SITE_URL ||
+            process.env.SITE_URL ||
+            "http://localhost:3000",
+        name: "randspace0",
+    },
 
     content: {
         build: {

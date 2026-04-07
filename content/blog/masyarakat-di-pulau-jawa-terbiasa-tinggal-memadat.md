@@ -1,10 +1,10 @@
 ---
 title: "Masyarakat di Pulau Jawa Terbiasa Tinggal Memadat"
-date: "2027-03-14"
+date: "2026-03-14"
 is_published: true
 ---
 
-Setelah beberapa kali berkunjung ke pedesaan di Pulau Jawa, saya menyadari satu hal yang cukup mencolok: masyarakat di sana sudah terbiasa hidup *memadat* — tinggal bersama dalam jarak yang sangat dekat, bahkan nyaris tanpa ruang di antara rumah satu dengan yang lain.
+Setelah beberapa kali berkunjung ke pedesaan di Pulau Jawa, saya menyadari satu hal yang cukup mencolok: masyarakat di sana sudah terbiasa hidup _memadat_ — tinggal bersama dalam jarak yang sangat dekat, bahkan nyaris tanpa ruang di antara rumah satu dengan yang lain.
 
 ## Fenomena Gang Senggol
 
@@ -36,7 +36,7 @@ Ada dua faktor utama yang menjelaskan ini:
 
 **Faktor ekonomi: tanah diwariskan, bukan dibeli.** Ketika orang tua meninggal, tanah dibagi rata kepada anak-anaknya. Generasi berikutnya membagi lagi ke anak mereka. Lama-kelamaan, satu bidang tanah yang awalnya luas terpecah menjadi kavling-kavling sempit. Tidak ada yang pindah jauh — semua tetap membangun di tanah warisan keluarga.
 
-**Faktor budaya: kedekatan fisik adalah rasa aman.** Dalam budaya masyarakat Jawa, tinggal berjauhan dari tetangga bukan sekadar tidak praktis — tapi juga terasa *angker* dan dianggap antisosial. Gotong royong, hajatan, hingga respons saat musibah semuanya bergantung pada kedekatan fisik. Rumah yang terlalu terpencil justru dilihat dengan curiga.
+**Faktor budaya: kedekatan fisik adalah rasa aman.** Dalam budaya masyarakat Jawa, tinggal berjauhan dari tetangga bukan sekadar tidak praktis — tapi juga terasa _angker_ dan dianggap antisosial. Gotong royong, hajatan, hingga respons saat musibah semuanya bergantung pada kedekatan fisik. Rumah yang terlalu terpencil justru dilihat dengan curiga.
 
 ## Perbandingan dengan Negara Lain
 
@@ -75,3 +75,7 @@ Yang perlu dipahami adalah kepadatan ini bukan semata-mata akibat kemiskinan ata
 Desa-desa di Eropa pun dulunya memiliki pola yang sama. Perbedaannya hanya soal waktu — mereka sudah melewati proses industrialisasi dan perubahan tata ruang lebih awal. Indonesia, India, dan Vietnam masih dalam tengah-tengah transisi itu.
 
 Jadi, gang senggol bukan tanda keterbelakangan. Ia adalah jejak sejarah yang masih hidup — dan masih berfungsi dengan caranya sendiri.
+
+---
+
+Disclaimer: Ini hanya spekulasi saja, omongan di atas bukan berdasarkan fakta ilmiah
